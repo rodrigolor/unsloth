@@ -81,9 +81,9 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
-        "Operating Systemn        "ll-tuning",
-        ingface",
-        "efficient training",
+        "Operating System :: OS Independent",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
+    keywords=["llm", "fine-tuning", "huggingface", "efficient training"],
     include_package_data=True,
 )
