@@ -48,6 +48,8 @@ EXTRAS_REQUIRE = {
         "ruff>=0.1.0",
         # ipython is handy for interactive debugging sessions
         "ipython>=8.0.0",
+        # mypy for type checking - useful when exploring the codebase
+        "mypy>=1.8.0",
     ],
 }
 
