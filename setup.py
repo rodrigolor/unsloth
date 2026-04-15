@@ -44,6 +44,8 @@ EXTRAS_REQUIRE = {
         "black>=23.12.0",
         "isort>=5.13.0",
         "flake8>=6.1.0",
+        # Added ruff as a faster alternative linter for local dev
+        "ruff>=0.1.0",
     ],
 }
 
