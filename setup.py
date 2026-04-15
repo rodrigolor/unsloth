@@ -46,6 +46,8 @@ EXTRAS_REQUIRE = {
         "flake8>=6.1.0",
         # Added ruff as a faster alternative linter for local dev
         "ruff>=0.1.0",
+        # ipython is handy for interactive debugging sessions
+        "ipython>=8.0.0",
     ],
 }
 
